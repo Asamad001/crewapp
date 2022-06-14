@@ -1,0 +1,30 @@
+// ignore_for_file: constant_identifier_names
+
+const String SplashScreen = "/Splash";
+const String Onboarding = "/Introduction";
+const String GetStarted = "/GetStart";
+const String singup = "/signup";
+const String singin = "/signin";
+const String register = "/register";
+const String verify = "/verify";
+const String regName = "/regName";
+const String regbirthdate = "/regbirthdate";
+const String regGender = "/regGender";
+const String regimage = "/regimage";
+const String regtalkabout = "/regtalkabout";
+const String selectcrew = "/selectcrew";
+const String tags = "/tags";
+const String findcrew = "/findcrew";
+const String navigationbar = "/navigationbar";
+const String feedsScreen = "/feedsScreen";
+const String exploreScreen = "/exploreScreen";
+const String chatscreen = "/chatscreen";
+const String profile = "/profile";
+const String events = "/events";
+const String feedAdd = "/feedAdd";
+const String mycrew = "/mycrew";
+const String chat = "/chats";
+const String crew1 = "/crew";
+const String hangout1 = "/hangout1";
+const String hangout2 = "/hangout2";
+const String hangout3 = "/hangout3";
